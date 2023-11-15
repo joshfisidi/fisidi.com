@@ -8,3 +8,4 @@ Fisidi.com - The Creative Blockchain Lab [Next.js](https://nextjs.org/), [Tailwi
 <br/>
 <p> The Fisidi Web3 Portal </p>
 # fisidi.com
+# fisidi.com
